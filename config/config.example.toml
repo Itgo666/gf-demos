@@ -8,6 +8,6 @@
         host = "127.0.0.1"
         port = "3306"
         user = "root"
-        pass = "12345678"
-        name = "test"
+        pass = "1234"
+        name = "go_test"
         type = "mysql"
